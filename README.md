@@ -35,8 +35,8 @@
 .input{
 				position:fixed;
 				bottom:35px;
-				left:0;
-				right:0;
+				left:10;
+				
 				
 				
 }
@@ -75,7 +75,7 @@
 				
 			
 				text-align:center;
-				font-size:6px;
+				font-size:8px;
 			  
 				color:#191919;
 				
@@ -94,7 +94,7 @@
 				display:block;
 				box-shadow: 0px 10px 10px grey;
 				border-radius:5px;
-				padding:5px; font-size:6px;
+				padding:5px; font-size:8px;
 }
 
 .bawah{
@@ -102,7 +102,7 @@
 				bottom:0;
 				left:0;
 				right:0;
-				background:#191919;
+				background:#191919; padding:3px;
 				
 }
 
