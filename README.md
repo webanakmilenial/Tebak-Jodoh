@@ -96,7 +96,7 @@
 				display:block;
 				box-shadow: 0px 10px 10px grey;
 				border-radius:5px;
-				padding:5px;
+				padding:5px; font-size:12px;
 }
 
 .bawah{
