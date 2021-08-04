@@ -50,7 +50,7 @@
 				background:#191919;
 				color:white;
 				padding:5px;
-				margin-left:7%;
+				margin-left:5%;
 				border-radius:5px; 
 				
 }
