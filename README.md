@@ -168,7 +168,7 @@
 
 								<p class="prytna">Prytna Web Deisgn, Copyright &copy; 2019</p>
 
-				</div>>
+				</div>
 
 			
 
