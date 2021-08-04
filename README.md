@@ -130,7 +130,7 @@
 
 				
 
-			<div class="isi"	>
+			<div class="isi">
 
 							<div class="textt">
 
@@ -142,7 +142,7 @@
 
 				</div>
 
-				<h2 class="robot">🤡</h2>
+				
 
 				</div>
 
