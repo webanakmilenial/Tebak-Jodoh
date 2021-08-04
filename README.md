@@ -63,7 +63,7 @@
 				padding:5px;
 				text-align:center;
 				color:white;
-				border-radius:5px; font-size:7px;
+				border-radius:5px; 
 }
 
 .robot{
@@ -110,7 +110,7 @@
 .prytna{
 				text-align:center;
 				color:white;
-				font-size:11px;
+				font-size:10px;
 }
 
           </style>
