@@ -22,9 +22,7 @@
 				
 }
 
-.anon{
-				
-}
+
 
 .what{
 				color:white;
@@ -39,7 +37,7 @@
 				bottom:35px;
 				left:0;
 				right:0;
-				margin-top:-5%;
+				
 				
 }
 
@@ -50,7 +48,7 @@
 				text-decoration:none;
 				background:#191919;
 				color:white;
-				padding:10px;
+				padding:5px;
 				margin-left:2%;
 				border-radius:5px;
 				
@@ -61,7 +59,7 @@
 				border:none;
 				text-decoration:none;
 				background:#191919;
-				padding:10px;
+				padding:5px;
 				text-align:center;
 				color:white;
 				border-radius:5px;
@@ -70,14 +68,14 @@
 .robot{
 				text-align:center;
 				
-				font-size:30px;
+				font-size:20px;
 }
 
 .text{
 				
 			
 				text-align:center;
-				font-size:12px;
+				font-size:6px;
 			  
 				color:#191919;
 				
@@ -136,7 +134,7 @@
 
 							<div class="textt">
 
-											<br>
+											
 
 				<h3 class="text" id="text"><em>Masukan bulan lahir kamu dengan huruf kecil</em></h3>
 
