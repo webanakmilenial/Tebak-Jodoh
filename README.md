@@ -49,7 +49,7 @@
 				text-decoration:none;
 				background:#191919;
 				color:white;
-				padding:10px;
+				padding:9px;
 				margin-left:5%;
 				border-radius:5px; font-size:10px;
 				
@@ -60,7 +60,7 @@
 				border:none;
 				text-decoration:none;
 				background:#191919;
-				padding:10px;
+				padding:9px;
 				text-align:center;
 				color:white;
 				border-radius:5px; font-size:10px;
