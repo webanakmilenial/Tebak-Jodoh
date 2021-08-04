@@ -70,7 +70,7 @@
 .robot{
 				text-align:center;
 				
-				font-size:70px;
+				font-size:30px;
 }
 
 .text{
@@ -96,7 +96,7 @@
 				display:block;
 				box-shadow: 0px 10px 10px grey;
 				border-radius:5px;
-				padding:5px; font-size:12px;
+				padding:5px; font-size:6px;
 }
 
 .bawah{
