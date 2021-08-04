@@ -34,7 +34,7 @@
 
 .input{
 				position:fixed;
-				bottom:35px;
+				bottom:40px;
 				left:0;
                                 right:0;
 				
@@ -51,7 +51,7 @@
 				color:white;
 				padding:5px;
 				margin-left:7%;
-				border-radius:5px; font-size:7px;
+				border-radius:5px; 
 				
 }
 
@@ -63,7 +63,7 @@
 				padding:5px;
 				text-align:center;
 				color:white;
-				border-radius:5px;
+				border-radius:5px; font-size:7px;
 }
 
 .robot{
